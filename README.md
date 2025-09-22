@@ -2,7 +2,7 @@
 
 Software Engineer Student at Western Governors University.💻<br/>
 Working at Amazon 📁 <br/>
-Located in Atlanta, Georgia. <br/>
+Located in Chicago, Illinois. <br/>
  📺
 
 
