@@ -1,7 +1,7 @@
 ## Hi, I'm Guillermo Barreto 
 
 Software Engineer Student at Western Governors University.💻<br/>
-Working at Amazon 📁 <br/>
+I work at Amazon 📁 <br/>
 Located in Chicago, Illinois. <br/>
  📺
 
