@@ -3,7 +3,7 @@
 Hi, I'm Guillermo 👋
 
 Aspiring Software Engineer @ WGU  
-Amazon Associate → Transitioning into Tech  
+IT Tech → Transitioning into SDE  
 Building automation tools & scalable applications  
 
 📍 Chicago, IL
