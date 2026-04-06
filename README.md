@@ -1,10 +1,12 @@
 ## Hi, I'm Guillermo Barreto 
 
-Software Engineer Student at Western Governors University.💻<br/>
-Working at Amazon 📁 <br/>
-Located in Chicago, Illinois. 📺 <br/> 
+Hi, I'm Guillermo 👋
 
+Aspiring Software Engineer @ WGU  
+Amazon Associate → Transitioning into Tech  
+Building automation tools & scalable applications  
 
+📍 Chicago, IL
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/guillermo-barreto-0034a9270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Guilleelias25@gmail.com) 
 
