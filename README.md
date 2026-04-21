@@ -7,7 +7,7 @@ IT Tech → Transitioning into SDE
 Building automation tools & scalable applications  
 
 ### 🛠 Tech Stack
-- Languages: Java, JavaScript, python
+- Languages: Java, JavaScript, python, Typescript
 - Frontend: HTML, CSS
 - Tools: Git, GitHub
 
