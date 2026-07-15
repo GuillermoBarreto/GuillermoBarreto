@@ -4,9 +4,7 @@ IT Support Associate II @ Amazon
 Building scalable full-stack applications with React, TypeScript, Python and FastAPI. Building automation tools 
 
 ### 🛠💻 Tech Stack
-- Languages: Java, JavaScript, python, Typescript
-- Frontend: HTML, CSS
-- Tools: Git, GitHub
+- Python • Java • TypeScript • React • FastAPI • PostgreSQL • AWS
 
 📍 Chicago, IL
 ## 🌐 Socials:
