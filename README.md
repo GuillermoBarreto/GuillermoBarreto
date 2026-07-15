@@ -3,7 +3,7 @@
 IT Support Associate II @ Amazon
 Building scalable full-stack applications with React, TypeScript, Python and FastAPI. Building automation tools 
 
-### 🛠 Tech Stack
+### 🛠💻 Tech Stack
 - Languages: Java, JavaScript, python, Typescript
 - Frontend: HTML, CSS
 - Tools: Git, GitHub
@@ -11,9 +11,6 @@ Building scalable full-stack applications with React, TypeScript, Python and Fas
 📍 Chicago, IL
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-barreto-0034a9270) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GuillermoBarreto&icon=0&color=0)](https://visitcount.itsvg.in)
