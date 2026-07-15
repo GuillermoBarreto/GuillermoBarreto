@@ -1,7 +1,7 @@
 
-## Software Engineering Student @ WGU
 IT Support Associate II @ Amazon
-Building scalable full-stack applications with React, TypeScript, Python and FastAPI. Building automation tools 
+Software Engineering Student @ WGU
+Building full-stack applications.
 
 ### 🛠💻 Tech Stack
 - Python • Java • TypeScript • React • FastAPI • PostgreSQL • AWS
