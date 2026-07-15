@@ -8,7 +8,7 @@ Interested in backend engineering, cloud computing, and full-stack development.
 Building applications with React, TypeScript, Python, and FastAPI.
 
 ### 🛠💻 Tech Stack
-- Python • Java • TypeScript • React • FastAPI • PostgreSQL • AWS
+- Python • Java • TypeScript • React • FastAPI • PostgreSQL • AWS • Docker
 
 📍 Chicago, IL
 ## 🌐 Socials:
