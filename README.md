@@ -1,10 +1,7 @@
-## Hi, I'm Guillermo Barreto
 
-Hi, I'm Guillermo 👋
-
-Aspiring Software Engineer @ WGU  
-IT Tech → Transitioning into SDE  
-Building automation tools & scalable applications  
+## Software Engineering Student @ WGU
+IT Support Associate II @ Amazon
+Building scalable full-stack applications with React, TypeScript, Python and FastAPI. Building automation tools 
 
 ### 🛠 Tech Stack
 - Languages: Java, JavaScript, python, Typescript
