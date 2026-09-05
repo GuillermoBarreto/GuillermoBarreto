@@ -1,64 +1,36 @@
-# Hi, I'm Guillermo Barreto
+# Hey, I'm Guillermo 👋
 
-**Backend & full-stack development · Python, FastAPI, React & TypeScript**
+I work in IT support at Amazon and study Software Engineering at WGU. I'm based in Chicago and working toward an SDE role, mostly focused on Python backends and full-stack apps.
 
-I'm a Software Engineering student at Western Governors University and an IT Support Associate II at Amazon, based in Chicago. I build web applications that connect useful interfaces with backend APIs, databases, and external data services.
-
-**Seeking Software Development Engineer (SDE) opportunities**, with a focus on backend and full-stack engineering.
+Most of my projects use Python, FastAPI, React, and TypeScript. Lately, I've also been looking for open-source projects where I can contribute fixes and tests.
 
 [Portfolio](https://gb-portfolio-gamma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/guillermo-barreto-0034a9270/)
 
-## Featured projects
+## A few things I've been building
 
-### [Shortly — URL management platform](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener)
+🛰️ **[AstraScope](https://github.com/GuillermoBarreto/AstraScope)** — A satellite tracker with an interactive 3D globe. It brings together orbital data, pass predictions, and a FastAPI backend that caches data when providers are unavailable.  
+React · TypeScript · Three.js · Python
 
-Create and manage short links with custom aliases, expiration controls, QR codes, and click analytics.
+🔗 **[Shortly](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener)** — A URL shortener with accounts, custom links, and click analytics. The backend uses PostgreSQL for storage and Redis for faster redirects, with tests and Docker setup in the repo.  
+FastAPI · PostgreSQL · Redis · React
 
-- JWT access/refresh authentication and ownership checks for link management.
-- Redis-assisted redirects with database fallback, plus SQLAlchemy persistence and Alembic migrations.
-- Backend and frontend tests, Docker setup, and GitHub Actions CI.
+🌍 **[OpenSoS](https://github.com/GuillermoBarreto/OpenSoS)** — A map that brings public disaster reports from USGS, NASA, and GDACS into one place, keeping the original sources attached to each event.  
+Python · FastAPI · React · MapLibre
 
-**Stack:** Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Docker  
-[Architecture and tradeoffs](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener/blob/main/docs/architecture.md)
+## What I work with
 
-### [AstraScope — interactive satellite tracking](https://github.com/GuillermoBarreto/AstraScope)
+**Languages:** Python, TypeScript, JavaScript, Java  
+**Web & data:** React, FastAPI, PostgreSQL, Redis, SQLAlchemy  
+**Tools:** Git, Docker, GitHub Actions, Pytest, Vitest
 
-Explore satellites on a 3D globe with orbital propagation, search and filtering, ground tracks, and observer-based pass predictions.
+I keep my coursework, coding practice, and system design notes in [SDE Journey](https://github.com/GuillermoBarreto/SDE-Journey).
 
-- FastAPI aggregation of public orbital catalogs with persistent caching and provider fallback.
-- GPU-instanced rendering for thousands of spacecraft.
-- Separate frontend and API deployment configuration, with frontend and backend test suites.
+## GitHub activity
 
-**Stack:** React · TypeScript · Three.js · Python · FastAPI  
-[Features, data architecture, and local setup](https://github.com/GuillermoBarreto/AstraScope#readme)
+[![Guillermo's GitHub contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=GuillermoBarreto&theme=github-dark-blue&hide_border=true)](https://github.com/GuillermoBarreto?tab=overview)
 
-### [OpenSoS — public disaster information map](https://github.com/GuillermoBarreto/OpenSoS)
+<sub>Contribution stats update automatically. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a>.</sub>
 
-Bring USGS, NASA EONET, and GDACS event feeds into a searchable map with source attribution and provider freshness.
+---
 
-- Isolated provider adapters normalize different feeds into a shared API.
-- Last-known-good caching keeps available data useful when a provider fails.
-- Map clustering, incident deep links, and provider tests using mocked HTTP.
-
-**Stack:** Python · FastAPI · React · TypeScript · MapLibre GL JS  
-[Architecture](https://github.com/GuillermoBarreto/OpenSoS/blob/main/docs/architecture.md)
-
-## Technical toolkit
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, TypeScript, JavaScript, Java |
-| Backend & data | FastAPI, PostgreSQL, SQLAlchemy, Redis |
-| Frontend | React, Vite, Tailwind CSS |
-| Testing & delivery | Pytest, Vitest, Git, GitHub Actions, Docker |
-
-## Background & learning
-
-- **Amazon:** IT Support Associate II.
-- **WGU:** Studying Software Engineering.
-- **Continued practice:** [SDE Journey](https://github.com/GuillermoBarreto/SDE-Journey) — algorithms, coursework, and system design notes.
-- **Interests:** Backend engineering, cloud computing, and full-stack development.
-
-## Let's connect
-
-For SDE opportunities or a conversation about my projects, reach me on [LinkedIn](https://www.linkedin.com/in/guillermo-barreto-0034a9270/) or explore my [portfolio](https://gb-portfolio-gamma.vercel.app/).
+I'm looking for backend and full-stack SDE opportunities. If you'd like to talk about a role or one of my projects, [reach out on LinkedIn](https://www.linkedin.com/in/guillermo-barreto-0034a9270/).
