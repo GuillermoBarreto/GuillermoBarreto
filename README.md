@@ -9,13 +9,16 @@ Most of my projects use Python, FastAPI, React, and TypeScript. Lately, I've als
 ## A few things I've been building
 
 🛰️ **[AstraScope](https://github.com/GuillermoBarreto/AstraScope)** — A satellite tracker with an interactive 3D globe. It brings together orbital data, pass predictions, and a FastAPI backend that caches data when providers are unavailable.  
-React · TypeScript · Three.js · Python
+React · TypeScript · Three.js · Python  
+[Live demo ↗](https://astrascope-live.vercel.app/)
 
 🔗 **[Shortly](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener)** — A URL shortener with accounts, custom links, and click analytics. The backend uses PostgreSQL for storage and Redis for faster redirects, with tests and Docker setup in the repo.  
-FastAPI · PostgreSQL · Redis · React
+FastAPI · PostgreSQL · Redis · React  
+[Live demo ↗](https://urlshortener-puce-three.vercel.app/)
 
 🌍 **[OpenSoS](https://github.com/GuillermoBarreto/OpenSoS)** — A map that brings public disaster reports from USGS, NASA, and GDACS into one place, keeping the original sources attached to each event.  
-Python · FastAPI · React · MapLibre
+Python · FastAPI · React · MapLibre  
+[Live demo ↗](https://opensos-beta.vercel.app/)
 
 ## What I work with
 
