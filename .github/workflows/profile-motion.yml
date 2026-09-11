@@ -1,0 +1,60 @@
+name: Refresh profile animations
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 8 * * *'
+  push:
+    branches: [main]
+    paths: ['.github/workflows/profile-motion.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-motion
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Generate blue and purple contribution snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?color_snake=#8957e5&color_dots=#ebedf0,#c9d8ff,#91b8fa,#708de0,#8957e5
+            assets/snake-dark.svg?palette=github-dark&color_snake=#bf91f3&color_dots=#161b22,#253657,#405992,#70a5fd,#bf91f3
+      - name: Generate Pac-Man arcade animations
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+      - name: Generate CRT activity panels
+        uses: stefashkaa/github-profile-crt@671333315c764e6b9c804b9ef4d97e6f5ab8cdcb # v1
+        with:
+          github-user: ${{ github.repository_owner }}
+          output-dir: assets/crt
+          themes: crt
+          commit-and-push: 'false'
+      - name: Collect and verify animations
+        run: |
+          mkdir -p assets/arcade
+          cp dist/pacman-contribution-graph*.svg assets/arcade/
+          for file in assets/snake.svg assets/snake-dark.svg assets/arcade/pacman-contribution-graph.svg assets/arcade/pacman-contribution-graph-dark.svg assets/crt/crt-dark.svg assets/crt/crt-light.svg; do
+            test -s "$file"
+            grep -q '<svg' "$file"
+          done
+      - name: Save refreshed artwork
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/snake*.svg assets/arcade/*.svg assets/crt/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh contribution animations'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
