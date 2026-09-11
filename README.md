@@ -1,4 +1,10 @@
-# Hey, I'm Guillermo 👋
+<h1 align="center">Hey, I'm Guillermo 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=55&amp;lines=Python+backends.+Full-stack+apps.;Building+toward+an+SDE+role." alt="Python backends. Full-stack apps. Building toward an SDE role." width="700" />
+</p>
+
+<p align="center"><b>IT support at Amazon · Software Engineering at WGU · Chicago</b></p>
 
 I work in IT support at Amazon and study Software Engineering at WGU. I'm based in Chicago and working toward an SDE role, mostly focused on Python backends and full-stack apps.
 
@@ -20,19 +26,40 @@ FastAPI · PostgreSQL · Redis · React
 Python · FastAPI · React · MapLibre  
 [Live demo ↗](https://opensos-beta.vercel.app/)
 
-## What I work with
+## 🛠️ Tech stack
 
-**Languages:** Python, TypeScript, JavaScript, Java  
-**Web & data:** React, FastAPI, PostgreSQL, Redis, SQLAlchemy  
-**Tools:** Git, Docker, GitHub Actions, Pytest, Vitest
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+
+**Web & data**
+
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**Tools & testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 I keep my coursework, coding practice, and system design notes in [SDE Journey](https://github.com/GuillermoBarreto/SDE-Journey).
 
-## GitHub activity
+## 📊 Stats overview
 
-[![Guillermo's GitHub contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=GuillermoBarreto&theme=github-dark-blue&hide_border=true)](https://github.com/GuillermoBarreto?tab=overview)
+<p align="center">
+  <a href="https://github.com/GuillermoBarreto?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=GuillermoBarreto&amp;theme=tokyonight&amp;hide_border=true" alt="Guillermo's total contributions, current streak, and longest streak" width="520" />
+  </a>
+</p>
 
-<sub>Contribution stats update automatically. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a>.</sub>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuillermoBarreto&amp;theme=tokyonight&amp;name=Guillermo%20Barreto" alt="Guillermo Barreto's GitHub profile summary and contribution activity" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoBarreto&amp;theme=tokyonight" alt="Top languages across repositories" width="340" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=0" alt="Commit activity by hour in UTC" width="340" />
+</p>
+
+<sub>Stats refresh through external services and may be cached. Language breakdown is by repository; commit hours are shown in UTC. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Summary Cards</a>.</sub>
 
 ---
 
