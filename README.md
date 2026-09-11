@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Guillermo 👋</h1>
+<p align="center"><img src="assets/header.svg" alt="Guillermo Barreto — Python backends and full-stack apps" width="100%" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=55&amp;lines=Python+backends.+Full-stack+apps.;Building+toward+an+SDE+role." alt="Python backends. Full-stack apps. Building toward an SDE role." width="700" />
@@ -10,13 +10,17 @@ I work in IT support at Amazon and study Software Engineering at WGU. I'm based 
 
 Most of my projects use Python, FastAPI, React, and TypeScript. Lately, I've also been looking for open-source projects where I can contribute fixes and tests.
 
-[Portfolio](https://gb-portfolio-gamma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/guillermo-barreto-0034a9270/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=white)](https://gb-portfolio-gamma.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/guillermo-barreto-0034a9270/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilleelias7/) [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guilleelias25)
 
 ## A few things I've been building
 
 🛰️ **[AstraScope](https://github.com/GuillermoBarreto/AstraScope)** — A satellite tracker with an interactive 3D globe. It brings together orbital data, pass predictions, and a FastAPI backend that caches data when providers are unavailable.  
 React · TypeScript · Three.js · Python  
 [Live demo ↗](https://astrascope-live.vercel.app/)
+
+[![AstraScope satellite globe — recorded preview](assets/astrascope-demo.gif)](https://astrascope-live.vercel.app/)
+
+<sub>Recorded preview of AstraScope. Open the live demo to explore the globe.</sub>
 
 🔗 **[Shortly](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener)** — A URL shortener with accounts, custom links, and click analytics. The backend uses PostgreSQL for storage and Redis for faster redirects, with tests and Docker setup in the repo.  
 FastAPI · PostgreSQL · Redis · React  
@@ -54,12 +58,48 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuillermoBarreto&amp;theme=tokyonight&amp;name=Guillermo%20Barreto" alt="Guillermo Barreto's GitHub profile summary and contribution activity" width="700" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoBarreto&amp;theme=tokyonight" alt="Top languages across repositories" width="340" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=0" alt="Commit activity by hour in UTC" width="340" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoBarreto&amp;theme=tokyonight" alt="Top languages across repositories" width="100%" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=0" alt="Commit activity by hour in UTC" width="100%" /></td>
+  </tr>
+</table>
 
 <sub>Stats refresh through external services and may be cached. Language breakdown is by repository; commit hours are shown in UTC. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Summary Cards</a>.</sub>
+
+## 🐍 Contributions in motion
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img src="assets/snake-dark.svg" alt="Animated snake tracing my GitHub contributions" width="100%" />
+</picture>
+
+<details>
+<summary><b>👻 Arcade mode — watch Pac-Man chase my contributions</b></summary>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arcade/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/arcade/pacman-contribution-graph.svg" />
+  <img src="assets/arcade/pacman-contribution-graph-dark.svg" alt="Pac-Man and ghosts moving through my contribution calendar" width="100%" />
+</picture>
+
+</details>
+
+<details>
+<summary><b>📺 Terminal mode — animated CRT activity dashboard</b></summary>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/crt/crt-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/crt/crt-light.svg" />
+  <img src="assets/crt/crt-dark.svg" alt="Retro CRT contribution dashboard with animated scanlines" width="100%" />
+</picture>
+
+</details>
+
+<sub>Contribution animations refresh daily. Made with <a href="https://github.com/Platane/snk">Snake</a>, <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a>, and <a href="https://github.com/stefashkaa/github-profile-crt">Profile CRT</a>. Header by <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a>.</sub>
 
 ---
 
