@@ -50,18 +50,18 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
 
 <p align="center">
   <a href="https://github.com/GuillermoBarreto?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=GuillermoBarreto&amp;theme=tokyonight&amp;hide_border=true" alt="Guillermo's total contributions, current streak, and longest streak" width="520" />
+    <img loading="lazy" src="https://streak-stats.demolab.com/?user=GuillermoBarreto&amp;theme=tokyonight&amp;hide_border=true" alt="Guillermo's total contributions, current streak, and longest streak" width="520" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuillermoBarreto&amp;theme=tokyonight&amp;name=Guillermo%20Barreto" alt="Guillermo Barreto's GitHub profile summary and contribution activity" width="700" />
+  <img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuillermoBarreto&amp;theme=tokyonight&amp;name=Guillermo%20Barreto" alt="Guillermo Barreto's GitHub profile summary and contribution activity" width="700" />
 </p>
 
 <table align="center">
   <tr>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoBarreto&amp;theme=tokyonight" alt="Top languages across repositories" width="100%" /></td>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=0" alt="Commit activity by hour in UTC" width="100%" /></td>
+    <td width="50%"><img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoBarreto&amp;theme=tokyonight" alt="Top languages across repositories" width="100%" /></td>
+    <td width="50%"><img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=0" alt="Commit activity by hour in UTC" width="100%" /></td>
   </tr>
 </table>
 
