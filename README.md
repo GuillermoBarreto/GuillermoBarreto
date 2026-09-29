@@ -72,7 +72,7 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
-  <img src="assets/snake-dark.svg" alt="Animated snake tracing my GitHub contributions" width="100%" />
+  <img loading="lazy" src="assets/snake-dark.svg" alt="Animated snake tracing my GitHub contributions" width="100%" />
 </picture>
 
 <details>
@@ -82,7 +82,7 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/arcade/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/arcade/pacman-contribution-graph.svg" />
-  <img src="assets/arcade/pacman-contribution-graph-dark.svg" alt="Pac-Man and ghosts moving through my contribution calendar" width="100%" />
+  <img loading="lazy" src="assets/arcade/pacman-contribution-graph-dark.svg" alt="Pac-Man and ghosts moving through my contribution calendar" width="100%" />
 </picture>
 
 </details>
@@ -94,7 +94,7 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/crt/crt-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/crt/crt-light.svg" />
-  <img src="assets/crt/crt-dark.svg" alt="Retro CRT contribution dashboard with animated scanlines" width="100%" />
+  <img loading="lazy" src="assets/crt/crt-dark.svg" alt="Retro CRT contribution dashboard with animated scanlines" width="100%" />
 </picture>
 
 </details>
