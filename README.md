@@ -30,6 +30,9 @@ FastAPI · PostgreSQL · Redis · React
 Python · FastAPI · React · MapLibre  
 [Live demo ↗](https://opensos-beta.vercel.app/)
 
+⌨️ **[commitcraft](https://github.com/GuillermoBarreto/commitcraft)** — An AI-powered CLI that drafts conventional-commit messages from a staged git diff. No runtime dependencies — the LLM calls are plain `urllib` over HTTPS. I use it on my own nightly commits.  
+Python · CLI
+
 ## 🛠️ Tech stack
 
 **Languages**
