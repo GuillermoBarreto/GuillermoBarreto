@@ -64,11 +64,11 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
 <table align="center">
   <tr>
     <td width="50%"><img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuillermoBarreto&amp;theme=tokyonight" alt="Top languages across repositories" width="100%" /></td>
-    <td width="50%"><img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=0" alt="Commit activity by hour in UTC" width="100%" /></td>
+    <td width="50%"><img loading="lazy" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuillermoBarreto&amp;theme=tokyonight&amp;utcOffset=-6" alt="Commit activity by hour in UTC" width="100%" /></td>
   </tr>
 </table>
 
-<sub>Stats refresh through external services and may be cached. Language breakdown is by repository; commit hours are shown in UTC. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Summary Cards</a>.</sub>
+<sub>Stats refresh through external services and may be cached. Language breakdown is by repository; commit hours are shown in Central Time. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Summary Cards</a>.</sub>
 
 ## 🐍 Contributions in motion
 
