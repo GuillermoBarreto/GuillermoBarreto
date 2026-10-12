@@ -33,6 +33,9 @@ Python · FastAPI · React · MapLibre
 ⌨️ **[commitcraft](https://github.com/GuillermoBarreto/commitcraft)** — An AI-powered CLI that drafts conventional-commit messages from a staged git diff. No runtime dependencies — the LLM calls are plain `urllib` over HTTPS. I use it on my own nightly commits.  
 Python · CLI
 
+🧪 **[evalkit](https://github.com/GuillermoBarreto/evalkit)** — A YAML-driven eval harness for LLM prompts. Write expected behaviors as a YAML suite, run them against offline fixtures or a live API, and get pass/fail reports — including a `validate` linter and a `diff` command to catch regressions.  
+Python · CLI
+
 ## 🛠️ Tech stack
 
 **Languages**
@@ -107,3 +110,4 @@ I keep my coursework, coding practice, and system design notes in [SDE Journey](
 ---
 
 I'm looking for backend and full-stack SDE opportunities. If you'd like to talk about a role or one of my projects, [reach out on LinkedIn](https://www.linkedin.com/in/guillermo-barreto-0034a9270/).
+
