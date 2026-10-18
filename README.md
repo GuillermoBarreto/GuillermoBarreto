@@ -12,6 +12,19 @@ Most of my projects use Python, FastAPI, React, and TypeScript. Lately, I've als
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=white)](https://gb-portfolio-gamma.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/guillermo-barreto-0034a9270/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilleelias7/) [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guilleelias25)
 
+## Featured engineering work
+
+For software engineering roles, these are the projects I recommend reviewing first:
+
+| Project | Engineering focus | Explore |
+| --- | --- | --- |
+| **AstraScope** | React/TypeScript, Three.js, FastAPI, orbital data and caching | [Code](https://github.com/GuillermoBarreto/AstraScope) · [Demo](https://astrascope-live.vercel.app/) |
+| **Shortly** | FastAPI, PostgreSQL, Redis, authentication, tests and scaling tradeoffs | [Code](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener) · [Demo](https://urlshortener-puce-three.vercel.app/) |
+| **OpenSoS** | External data ingestion, normalization, provenance and resilient geospatial UI | [Code](https://github.com/GuillermoBarreto/OpenSoS) · [Demo](https://opensos-beta.vercel.app/) |
+| **evalkit** | Deterministic regression evaluation for LLM applications and CLI tooling | [Code](https://github.com/GuillermoBarreto/evalkit) |
+
+**What I focus on:** readable APIs, tested behavior, thoughtful failure handling, and clear architecture tradeoffs. Repositories include setup instructions and limitations where applicable.
+
 ## A few things I've been building
 
 🛰️ **[AstraScope](https://github.com/GuillermoBarreto/AstraScope)** — A satellite tracker with an interactive 3D globe. It brings together orbital data, pass predictions, and a FastAPI backend that caches data when providers are unavailable.  
