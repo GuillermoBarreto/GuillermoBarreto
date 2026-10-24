@@ -39,6 +39,10 @@ React · TypeScript · Three.js · Python
 FastAPI · PostgreSQL · Redis · React  
 [Live demo ↗](https://urlshortener-puce-three.vercel.app/)
 
+[![Shortly link shortener — recorded preview](assets/shortly-demo.png)](https://urlshortener-puce-three.vercel.app/)
+
+<sub>Recorded preview of Shortly. Open the live demo to try it.</sub>
+
 🌍 **[OpenSoS](https://github.com/GuillermoBarreto/OpenSoS)** — A map that brings public disaster reports from USGS, NASA, and GDACS into one place, keeping the original sources attached to each event.  
 Python · FastAPI · React · MapLibre  
 [Live demo ↗](https://opensos-beta.vercel.app/)
@@ -46,8 +50,16 @@ Python · FastAPI · React · MapLibre
 ⌨️ **[commitcraft](https://github.com/GuillermoBarreto/commitcraft)** — An AI-powered CLI that drafts conventional-commit messages from a staged git diff. No runtime dependencies — the LLM calls are plain `urllib` over HTTPS. I use it on my own nightly commits.  
 Python · CLI
 
+[![commitcraft terminal session — recorded preview](assets/commitcraft-demo.png)](https://github.com/GuillermoBarreto/commitcraft)
+
+<sub>Recorded preview of commitcraft, running in offline mode on a staged diff.</sub>
+
 🧪 **[evalkit](https://github.com/GuillermoBarreto/evalkit)** — A YAML-driven eval harness for LLM prompts. Write expected behaviors as a YAML suite, run them against offline fixtures or a live API, and get pass/fail reports — including a `validate` linter and a `diff` command to catch regressions.  
 Python · CLI
+
+[![evalkit eval run — recorded preview](assets/evalkit-demo.png)](https://github.com/GuillermoBarreto/evalkit)
+
+<sub>Recorded preview of evalkit running its bundled example suite.</sub>
 
 ## 🛠️ Tech stack
 
