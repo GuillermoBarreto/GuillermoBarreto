@@ -18,6 +18,7 @@ For software engineering roles, these are the projects I recommend reviewing fir
 
 | Project | Engineering focus | Explore |
 | --- | --- | --- |
+| **Sentinel** | Data-center inventory, telemetry, alerts, and read-only collectors | [Website](https://sentinel-landing-wine.vercel.app/) |
 | **AstraScope** | React/TypeScript, Three.js, FastAPI, orbital data and caching | [Code](https://github.com/GuillermoBarreto/AstraScope) · [Demo](https://astrascope-live.vercel.app/) |
 | **Shortly** | FastAPI, PostgreSQL, Redis, authentication, tests and scaling tradeoffs | [Code](https://github.com/GuillermoBarreto/shortly-scalable-url-shortener) · [Demo](https://urlshortener-puce-three.vercel.app/) |
 | **OpenSoS** | External data ingestion, normalization, provenance and resilient geospatial UI | [Code](https://github.com/GuillermoBarreto/OpenSoS) · [Demo](https://opensos-beta.vercel.app/) |
@@ -26,6 +27,14 @@ For software engineering roles, these are the projects I recommend reviewing fir
 **What I focus on:** readable APIs, tested behavior, thoughtful failure handling, and clear architecture tradeoffs. Repositories include setup instructions and limitations where applicable.
 
 ## A few things I've been building
+
+🏢 **[Sentinel](https://sentinel-landing-wine.vercel.app/)** — A data-center operations preview for mixed on-premises sites: site, room, and rack inventory, telemetry history, operational alerts, and read-only host and Redfish collectors. Free early-access preview (0.5); security investigations and workstation tools remain available separately.  
+Python · FastAPI · React · TypeScript  
+[Website ↗](https://sentinel-landing-wine.vercel.app/)
+
+[![Sentinel data-center dashboard — preview](assets/sentinel-demo.jpg)](https://sentinel-landing-wine.vercel.app/)
+
+<sub>Preview of the Sentinel data-center dashboard (sample data). Open the website to get the early-access preview.</sub>
 
 🛰️ **[AstraScope](https://github.com/GuillermoBarreto/AstraScope)** — A satellite tracker with an interactive 3D globe. It brings together orbital data, pass predictions, and a FastAPI backend that caches data when providers are unavailable.  
 React · TypeScript · Three.js · Python  
